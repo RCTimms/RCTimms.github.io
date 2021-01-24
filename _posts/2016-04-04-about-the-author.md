@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Ryan Timms"
 categories: facts
 tags: [sample]
 image: cuba-1.jpg
