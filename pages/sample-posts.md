@@ -1,5 +1,5 @@
 ---
 layout: misc
-title: Sample Posts
+title: CV
 ---
-Is this basic markdown?
+You can download a copy of my academic CV here:
